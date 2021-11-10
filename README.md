@@ -3,11 +3,13 @@
 
 <span> 💌 shing100@naver.com </span>
 
+<!--
 <a href="https://www.instagram.com/limgeun/">
     <img 
         src="http://img.shields.io/badge/-Instagram-222222?style=flat&logo=Instagram&link=https://www.instagram.com/limgeun/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+-->
 
 <!--
 **shing100/shing100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
