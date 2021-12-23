@@ -1,4 +1,4 @@
-### Hellow! 👋 This is Limgeun
+### Hellow! 👋 This is Limgeun's Github
 
 
 <span> 💌 shing100@naver.com </span>
