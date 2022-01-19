@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Logstash-E34F26?style=flat-square&logo=Logstash&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/ApacheSpark-1572B6?style=flat-square&logo=ApacheSpark&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python3-#3492FF?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 </p>
 
 <!--
