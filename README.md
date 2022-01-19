@@ -35,5 +35,3 @@
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shing100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
-<span> 💌 shing100@naver.com </span>
