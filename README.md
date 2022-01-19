@@ -1,8 +1,5 @@
 ### Hellow! 👋
 
-
-<span> 💌 shing100@naver.com </span>
-
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
@@ -22,10 +19,6 @@
 -->
 
 <!--
-**shing100/shing100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -37,5 +30,8 @@ Here are some ideas to get you started:
 -->
 
 ![shing100's GitHub stats](https://github-readme-stats.vercel.app/api?username=shing100&show_icons=true&theme=cobal)
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shing100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
+<span> 💌 shing100@naver.com </span>
