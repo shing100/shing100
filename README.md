@@ -30,8 +30,3 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![shing100's GitHub stats](https://github-readme-stats.vercel.app/api?username=shing100&show_icons=true&theme=cobal)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shing100&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
